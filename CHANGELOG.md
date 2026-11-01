@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+## [1.3.0] - 2026-11-01
+
 ### Added
 
 - `passive_exchange: true` on a routing key mapping binds to an existing
